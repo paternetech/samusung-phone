@@ -1,0 +1,106 @@
+body {
+    background-color:rgb(41, 38, 38);
+    
+}
+#mobile{
+    border:5px solid rgb(248, 246, 246);
+    background-color:#f1f1f3;
+    padding:100px;
+    padding-bottom:380px;
+    margin-top:60px;
+    margin-right:50px;
+    margin-left:50px;
+    border-color:rgb(227, 227, 227);
+    border-radius:30px;
+    box-shadow:5px 5px 10px  rgba(255, 255, 255, 0.2);
+    width: 75px;
+    margin: auto;
+}
+#screen{
+    position:absolute ;
+    border:3px;
+    background-color:rgb(138, 135, 135); 
+      
+    padding:80px;
+    margin-left:-80px;
+    margin-top:-60px;
+    padding-left:110px;
+    padding-right:115px;
+    padding-top:100px;
+    padding-bottom:300px;
+}
+#homebtn{
+    position:absolute ;
+    border:3px solid #121212;
+    padding:10px;
+    padding-right:40px;
+    border-radius:15px;
+    margin-top:345px;
+    margin-left:7px;
+}
+#backbtn{
+    position:absolute;
+    border:1.5px solid #0a0a0a;
+    padding:6px;
+    border-left-color:rgb(159, 156, 156);
+    padding-right:10px;
+    border-radius:5px;
+    margin-top:350px;
+    margin-left:100px;
+}
+.recentbtn{
+    position:absolute;
+    border:1.5px solid #0d0d0d;
+    padding:6px;
+    padding-right:13px;
+    margin-top:350px;
+    margin-left:-50px;
+    
+}
+.flash{
+    position:absolute ;
+    border:2px solid #black;
+    background-size:cover;
+    padding:6px;
+    background-color:#f2f3f4;
+    border-radius:10px;
+    margin-top:-90px;
+    margin-left:88px;
+}
+
+.name{
+    color:white;
+    text-shadow:3px 3px 6px rgb(179, 178, 178);
+    font-family:cursive;
+    font-size:25px;
+}
+.top{
+    position:absolute;
+    font-size:15px;
+    color:#5d5f60;
+    font-weight:bold;
+    margin-top:-80px;
+    margin-left:-8px;
+    transform:rotate(360deg);
+}
+
+.frntcam{
+    position:absolute;
+     border:2px solid rgb(63, 61, 61);
+    padding:7px;
+    background-color:rgb(67, 65, 65);
+    border-radius:10px;
+    margin-top:-92px;
+    margin-left:-44px;
+    background-size:cover;
+}
+
+.sai{
+    position:absolute ;
+    border:2px solid #666666;
+    color:rgb(214, 208, 208);
+    padding:2px;
+    border-radius:10px;
+    margin-top:-90px;
+    padding-left:55px;
+}
